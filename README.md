@@ -45,4 +45,18 @@ lib/
 4.	Tap the Copy button to copy text to clipboard.
 5.	Tap the Delete icon to clear the text.
 
+## Demo
+https://github.com/user-attachments/assets/66d8b33a-9a20-421c-9572-d9ee4573673e
+
+## Your all-in-one learning hub! 
+🚀 Explore courses and resources in coding, tech, and development at **zeba.academy** and **code.zeba.academy**. Empower yourself with practical skills through curated tutorials, real-world projects, and hands-on experience. Level up your tech game today! 💻✨
+
+**Zeba Academy**  is a learning platform dedicated to **coding**, **technology**, and **development**.  
+➡ Visit our main site: [zeba.academy](https://zeba.academy)   </br>
+➡ Explore hands-on courses and resources at: [code.zeba.academy](https://code.zeba.academy)   </br>
+➡ Check out our YouTube for more tutorials: [zeba.academy](https://www.youtube.com/@zeba.academy)  </br>
+➡ Follow us on Instagram: [zeba.academy](https://www.instagram.com/zeba.academy/)  </br>
+
+**Thank you for visiting!** 
+
 
