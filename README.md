@@ -34,14 +34,14 @@ lib/
  ┗ widgets/         # Reusable widgets
 ```
 
-Dependencies
+## Dependencies
 •	flutter_riverpod: ^2.3.6 → State management
 •	clipboard: ^0.1.3 → Copy text to clipboard
-How to Use
+
+## How to Use
 1.	Open the app.
 2.	Select the number of words or paragraphs to generate.
 3.	Generated text will appear instantly.
 4.	Tap the Copy button to copy text to clipboard.
 5.	Tap the Delete icon to clear the text.
-License
-This project is open source and available under the MIT License.
+
