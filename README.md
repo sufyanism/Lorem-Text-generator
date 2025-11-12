@@ -35,8 +35,8 @@ lib/
 ```
 
 ## Dependencies
-•	flutter_riverpod: ^2.3.6 → State management
-•	clipboard: ^0.1.3 → Copy text to clipboard
+-	flutter_riverpod: ^2.3.6 → State management
+-	clipboard: ^0.1.3 → Copy text to clipboard
 
 ## How to Use
 1.	Open the app.
