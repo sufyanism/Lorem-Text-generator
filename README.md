@@ -2,11 +2,11 @@
 A simple Flutter Lorem Ipsum Text Generator App built using MVVM architecture and Riverpod for state management. The app allows users to generate random dummy text (words or paragraphs) and copy it to the clipboard.
 
 ## Features
-1. Generate random text by words (20, 50, 100).
-2. Generate random text by paragraphs (1, 3, 5).
-3. Copy to clipboard functionality.
-4. Clean MVVM architecture for maintainable code.
-5. Uses Riverpod for state management.
+**1.** Generate random text by words (20, 50, 100).
+**2.** Generate random text by paragraphs (1, 3, 5).
+**3.** Copy to clipboard functionality.
+**4.** Clean MVVM architecture for maintainable code.
+**5.** Uses Riverpod for state management.
 
 ## Getting Started
 **Prerequisites:**
@@ -16,8 +16,10 @@ Dart >= 2.18.0
 
 ## Installation
 Clone the repository:
+```sh
 git clone <your-repo-url>
-Navigate to the project folder:
+```
+## Navigate to the project folder:
 cd lorem_generator
 
 ## Install dependencies:
@@ -26,7 +28,7 @@ flutter pub get
 ## Run the app:
 flutter run
 
-Project Structure
+## Project Structure
 ```plaintext
 lib/
  ┣ models/          # Data models
@@ -35,7 +37,7 @@ lib/
  ┗ widgets/         # Reusable widgets
 ```
 
-Dependencies
+## Dependencies
 ```sh
 flutter_riverpod: ^2.3.6 → State management
 clipboard: ^0.1.3 → Copy text to clipboard
@@ -62,3 +64,4 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 ➡ Follow us on Instagram: [zeba.academy](https://www.instagram.com/zeba.academy/)  <br/>
 
 **Thank you for visiting!** 
+
