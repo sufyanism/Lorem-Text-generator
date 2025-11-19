@@ -39,7 +39,6 @@ lib/
 ## Demo
 https://github.com/user-attachments/assets/854cda98-fe23-43b4-8f0d-156cc8888d76
 
-
 ## Dependencies
 ```sh
 flutter_riverpod: ^2.3.6 → State management
@@ -67,6 +66,7 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 ➡ Follow us on Instagram: [zeba.academy](https://www.instagram.com/zeba.academy/)  <br/>
 
 **Thank you for visiting!** 
+
 
 
 
