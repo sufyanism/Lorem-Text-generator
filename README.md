@@ -1,16 +1,64 @@
-# lorem_generator
+# Lorem Generator App
+A simple Flutter Lorem Ipsum Text Generator App built using MVVM architecture and Riverpod for state management. The app allows users to generate random dummy text (words or paragraphs) and copy it to the clipboard.
 
-A new Flutter project.
+## Features
+1. Generate random text by words (20, 50, 100).
+2. Generate random text by paragraphs (1, 3, 5).
+3. Copy to clipboard functionality.
+4. Clean MVVM architecture for maintainable code.
+5. Uses Riverpod for state management.
 
 ## Getting Started
+**Prerequisites:**
+Flutter SDK >= 3.0.0
+Android Studio or VS Code
+Dart >= 2.18.0
 
-This project is a starting point for a Flutter application.
+## Installation
+Clone the repository:
+git clone <your-repo-url>
+Navigate to the project folder:
+cd lorem_generator
 
-A few resources to get you started if this is your first Flutter project:
+## Install dependencies:
+flutter pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Run the app:
+flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Project Structure
+```plaintext
+lib/
+ ┣ models/          # Data models
+ ┣ view_models/     # Logic and state management
+ ┣ views/           # Screens and UI
+ ┗ widgets/         # Reusable widgets
+```
+
+Dependencies
+```sh
+flutter_riverpod: ^2.3.6 → State management
+clipboard: ^0.1.3 → Copy text to clipboard
+```
+
+## How to Use
+- Open the app.
+- Select the number of words or paragraphs to generate.
+- Generated text will appear instantly.
+- Tap the Copy button to copy text to clipboard.
+- Tap the Delete icon to clear the text.
+
+## About Me 
+✨ I’m **Sufyan bin Uzayr**, an open-source developer passionate about building and sharing meaningful projects.
+You can learn more about me and my work at [sufyanism.com](https://sufyanism.com/) or connect with me on [Linkedin](https://www.linkedin.com/in/sufyanism)
+
+## Your all-in-one learning hub! 
+🚀 Explore courses and resources in coding, tech, and development at **zeba.academy** and **code.zeba.academy**. Empower yourself with practical skills through curated tutorials, real-world projects, and hands-on experience. Level up your tech game today! 💻✨
+
+**Zeba Academy**  is a learning platform dedicated to **coding**, **technology**, and **development**.  
+➡ Visit our main site: [zeba.academy](https://zeba.academy)   <br/>
+➡ Explore hands-on courses and resources at: [code.zeba.academy](https://code.zeba.academy)   <br/>
+➡ Check out our YouTube for more tutorials: [zeba.academy](https://www.youtube.com/@zeba.academy)  <br/>
+➡ Follow us on Instagram: [zeba.academy](https://www.instagram.com/zeba.academy/)  <br/>
+
+**Thank you for visiting!** 
