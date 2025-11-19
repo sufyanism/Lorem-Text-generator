@@ -9,7 +9,7 @@ A simple Flutter Lorem Ipsum Text Generator App built using MVVM architecture an
 5. Uses Riverpod for state management.
 
 ## Getting Started
-**Prerequisites:**
+**Prerequisites:** <br/>
 Flutter SDK >= 3.0.0 <br/>
 Android Studio or VS Code <br/>
 Dart >= 2.18.0
@@ -64,6 +64,7 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 ➡ Follow us on Instagram: [zeba.academy](https://www.instagram.com/zeba.academy/)  <br/>
 
 **Thank you for visiting!** 
+
 
 
 
