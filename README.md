@@ -36,18 +36,14 @@ flutter run
 
 # Or
 
-Follow these procedural steps to set up and execute the application:
-### 1. Install Flutter
-
 Follow the official Flutter installation guide:
 👉 Flutter Setup Guide
- ### 2. Create a new Flutter project 
+### 2. Create a new Flutter project 
 ```sh
 flutter create memory_match_game
 ```
 ### 3. Replace the lib folder
 Substitute the default lib directory with the provided tutorial codebase.
-
 
 ## Project Structure
 ```plaintext
@@ -87,6 +83,7 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 ➡ Follow us on Instagram: [zeba.academy](https://www.instagram.com/zeba.academy/)  <br/>
 
 **Thank you for visiting!** 
+
 
 
 
